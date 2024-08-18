@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_demo"
+  site-url: "https://Deufel.github.io/nbdev_demo"
+  description: "demo of setting up a nbdev enviorment"
+  repo-branch: master
+  repo-url: "https://github.com/Deufel/nbdev_demo"
